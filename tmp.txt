@@ -1,0 +1,9 @@
+196:        return {
+231:        return {
+354:    if (analysisType === 'file' && (!file || !fileContent)) return;
+355:    if (analysisType === 'url' && !urlInput.trim()) return;
+416:    if (!litPrompt.trim()) return;
+463:    if (!fwIdea.trim()) return;
+519:    if (!query.trim()) return;
+547:  return (
+4453:  return { content: [{ type: "text", text: JSON.stringify(results.metadatas) }] };

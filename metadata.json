@@ -1,0 +1,6 @@
+{
+  "name": "FileScope",
+  "description": "A smart assistant for exploring file formats, verifying extensions, and mastering advanced search operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
